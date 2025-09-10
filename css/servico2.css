@@ -1,0 +1,28 @@
+body {
+    background-color: #fff5e6;
+    font-family: 'Verdana', sans-serif;
+    color: #444;
+}
+
+h2 {
+    color: #ff8c00;
+    text-align: center;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+img {
+    border: 2px solid #ff8c00;
+}
+
+.btn-success {
+    background-color: #ff8c00;
+    border-color: #ff8c00;
+}
+
+.modal-header {
+    background-color: #ff8c00;
+    color: white;
+}

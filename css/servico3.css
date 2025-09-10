@@ -1,0 +1,28 @@
+body {
+    background-color: #e6f0ff;
+    font-family: 'Tahoma', sans-serif;
+    color: #222;
+}
+
+h2 {
+    color: #1e90ff;
+    text-align: center;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+img {
+    border: 2px solid #1e90ff;
+}
+
+.btn-success {
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+}
+
+.modal-header {
+    background-color: #1e90ff;
+    color: white;
+}
